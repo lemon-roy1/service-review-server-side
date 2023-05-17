@@ -1,6 +1,8 @@
 # b6a11-service-review-server-side-lemonroy1
 
 
+ this is server side and even get ,set ,delate ,post ,review
+
 1. Metrics: Performance, Useful (still Valid), Cost/SLA. Processes: Audit (followed, still useful) Strategy: Roadmap, Goals. Service Team effectiveness: Right topics, Right members (new blood, value add), right time.
 
 2. Customer service reviews are comments written or spoken by people who have interacted with a company and had experiences worth sharing. Rather than reviewing a specific product or service, a customer service review emphasizes how the employees and policies of a company work together to meet the needs of the consumer.
